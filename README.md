@@ -9,9 +9,12 @@ After running for a little bit...
 ```
 Each roll has a 2 in 3 chance of continuing the streak.
 
-Fri Oct 18 03:45:14 PM | Reached a 50 roll streak. (+7)
-        This streak had a 1 in 6,376,215,002 chance of happening.
-        Last streak (43) was 2 seconds ago.
+Fri Oct 18 03:56:17 PM | Reached a 47 roll streak. (+2)
+        This streak had a 1 in 1,889,248,890 chance of happening.
+        Last streak (45) was 7 seconds ago.
+
+
+Press [Ctrl + C] to exit the program.
 ```
 
 Made at the request of a friend. Published for fun.

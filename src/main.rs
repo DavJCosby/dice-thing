@@ -93,6 +93,8 @@ fn print_streak(
         "\tLast streak ({}) was {} ago.",
         formatted_last, formatted_elapsed
     );
+
+    println!("\n\nPress [Ctrl + C] to exit the program.");
 }
 
 fn format_elapsed(elapsed: Duration) -> String {

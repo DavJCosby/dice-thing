@@ -3,6 +3,12 @@ name = "dice-thing"
 version = "0.1.0"
 edition = "2021"
 
+[profile.release]
+opt-level = 3
+lto = true
+strip = "symbols"
+
+
 [dependencies]
 rand = "0.8.5"
 chrono = "0.4"
