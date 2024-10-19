@@ -14,7 +14,7 @@ fn clear() {
 }
 
 fn ask_user_for_dice_info() -> (u128, u128) {
-    let sides = ask_for_number("How many side should the die have? ");
+    let sides = ask_for_number("How many sides should the die have? ");
     if sides < 2 {
         println!("Error; that's now how dice work.\n");
         return ask_user_for_dice_info();

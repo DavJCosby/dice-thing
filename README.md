@@ -2,7 +2,7 @@
 Allows the user to roll an $n$-sided dice repeatedly, and then tells you the probability of your highest streak as the program runs. The user defines an integer $k < n$ such that all rolls greater than $k$ will continue the streak.
 
 ```
-How many side should the die have? 10
+How many sides should the die have? 10
 How many of those sides should break the streak? 1
 ```
 After running for a little bit...
